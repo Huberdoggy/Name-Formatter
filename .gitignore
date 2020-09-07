@@ -3,12 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# User-specific files
+# User-specific files And All Zips
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+*.zip
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -26,6 +27,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
